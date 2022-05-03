@@ -7,7 +7,6 @@
 import pandas as pd
 import numpy as np
 import requests
-import numpy as np
 import csv
 import matplotlib.pyplot as plt
 
