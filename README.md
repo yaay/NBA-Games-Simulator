@@ -1,6 +1,6 @@
 # NBA-Games-Simulator
 Application to simulate NBA games based on the current regular season games data written in Python.
 
-![NBA Game Simulator](images/header.jpg)
+![NBA Game Simulator](header.jpg)
 
 This project have two componenets, a scraper and a python application.
