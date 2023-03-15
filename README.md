@@ -1,5 +1,3 @@
-![NBA Game Simulator](header.png)
-
 # NBA Games Simulator
 
 This application will simulate NBA games for the purpose of predicting the outcomes of any game between two teams chooen by user. The games will be repeated by a number of times selected by user to approximate the chance of a particular team winning a match and the possibility of going to an overtime. 
